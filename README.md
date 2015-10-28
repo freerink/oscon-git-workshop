@@ -6,8 +6,5 @@ Hi there.
 aasdsd
 Hallo.
 More.
-dfsdf
-sdfsdf
-sdfsdf
-kjdlkjdsjfsfsf
 More
+Pushed it to GitHUB.
