@@ -3,7 +3,6 @@ I'm in G106.
 Again.
 bal
 Hi there.
-aasdsd
 Hallo.
 More.
 More
